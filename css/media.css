@@ -1,0 +1,26 @@
+@media (min-width: 576px) { 
+    
+    
+
+}
+
+@media (max-width: 768px) {
+    .domain_name {
+        padding-bottom: 10px;
+    }
+    
+    
+}
+
+
+@media (max-width: 992px) { 
+    .header_top {
+        display: flex;
+        flex-direction: column;
+    }
+    .domain_name {
+        padding-bottom: 40px;
+    }
+
+}
+
